@@ -26,10 +26,15 @@ $ pip install --upgrade pip
 $ pip freeze > requirements.txt
 ```
 
-### 4. Streamlitの起動
+### 4. JupyterLabの起動
+
+```bash 
+$ jupyter lab
+```
+
+### 5. Streamlitの起動
 
 ```bash
-$ jupyter lab
 $ streamlit run app.py
 ```
 
