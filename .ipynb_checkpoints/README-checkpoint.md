@@ -22,19 +22,13 @@ $ source venv/bin/activate
 
 ```bash
 $ pip install -r requirements.txt
-$ pip install --upgrade pip
-$ pip freeze > requirements.txt
 ```
 
 ### 4. Streamlitの起動
 
 ```bash
-$ jupyter lab
 $ streamlit run app.py
 ```
-
-
-
 
 ## 参考
 
